@@ -1,5 +1,5 @@
-import AC from "@bacons/apple-colors";
-import { Pressable, ScrollView, Text, View } from "react-native";
+import * as AC from "@bacons/apple-colors";
+import { Pressable, ScrollView, Text } from "react-native";
 
 export default function IndexRoute() {
   return (
